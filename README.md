@@ -3,7 +3,7 @@ BirdCLEF 2025 Sound Event Detection (SED) Inference Pipeline
 
 This repository provides a pipeline for performing sound event detection on the BirdCLEF 2025 dataset using pre-trained SED models.
 
-#Table of Contents
+# Table of Contents
 
 Overview
 
